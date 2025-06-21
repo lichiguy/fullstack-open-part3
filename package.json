@@ -1,0 +1,28 @@
+{
+  "name": "fullstack-open-part3",
+  "version": "1.0.0",
+  "description": "Exercises part 3",
+  "homepage": "https://github.com/lichiguy/fullstack-open-part3#readme",
+  "bugs": {
+    "url": "https://github.com/lichiguy/fullstack-open-part3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lichiguy/fullstack-open-part3.git"
+  },
+  "license": "ISC",
+  "author": "Emiliano Reyes",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
